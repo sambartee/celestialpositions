@@ -1,2 +1,4 @@
 # example
+import numpy as np
+
 print('Sam has bushy hair!')
